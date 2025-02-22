@@ -1,6 +1,6 @@
-def main()
-    print ('Hello world')
+#include <iostream>
 
-
-    if _name_ =='_main_':
-        main()
+int main()
+{
+ std::cout << "Hello World" << std::endl;
+}
